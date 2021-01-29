@@ -1,0 +1,107 @@
+/* body {
+  position: relative;
+} */
+
+.headtext {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 3rem;
+  letter-spacing: 5px;
+}
+
+.sectext {
+  font-size: 2.0rem;
+  letter-spacing: 4px;
+  font-family: 'Libre Baskerville, serif';
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.subtext {
+  font-family: 'GlacialIndifference';
+  font-size: 1.5rem;
+  padding-top: 5%;
+  letter-spacing: 3px;
+}
+
+.main-text {
+  padding-top: 300px;
+  text-align: center;
+}
+
+/*NavBar*/
+.nav-link {
+  font-family: 'Libre Baskerville';
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.navbar-brand {
+  font-family: 'Libre Baskerville';
+}
+
+/* HOME HERO SECTION */
+.hero-image {
+  background: url("images/bg-header.jpg");
+  background-color: #006666;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 900px;
+  background-blend-mode: multiply;
+  color: #fff;
+}
+
+/* FEATURES SECTION */
+.featuressec {
+  background-color: #ffffe6;
+  height: auto;
+  padding: 5% 12%;
+}
+
+.featuressec img {
+  max-width: 300px;
+}
+
+
+/* PRICING SECTION */
+.pricingsec {
+  background-color: #002848;
+  height: auto;
+  padding: 5% 12%;
+  color: #fff;
+}
+
+.pricingsec img {
+  max-width: 300px;
+}
+
+.pricing-text {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.card {
+  padding: 2%;
+  color: black;
+  font-family: 'GlacialIndifference';
+  text-align: center;
+}
+
+.card-text {
+  font-size: 1.5rem;
+}
+
+.card img {
+  margin: auto;
+}
+
+.box {
+  border: 2px solid gold;
+}
+
+/* CONTACT SECTION */
+.contactsec {
+  background-color: #ffffe6;
+  padding: 2% 15%;
+  text-align: center;
+}
